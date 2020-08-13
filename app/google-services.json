@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324055399035",
+    "firebase_url": "https://photoofapp.firebaseio.com",
+    "project_id": "photoofapp",
+    "storage_bucket": "photoofapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324055399035:android:58d7874c354b8360d400de",
+        "android_client_info": {
+          "package_name": "com.photoof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324055399035-264jpi7t4l443rml605kc2fm0cd0spop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.photoof",
+            "certificate_hash": "5d096ee59c81933ff5f99b948f8230b02e54d3bc"
+          }
+        },
+        {
+          "client_id": "324055399035-mq1giqjdligjlfamph5olk795nkogqmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAv57mZaJhLcEtXUqB0F8FT_wEXrlVBCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324055399035-mq1giqjdligjlfamph5olk795nkogqmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
